@@ -5,6 +5,9 @@
 A lightweight Retrieval-Augmented Generation (RAG) chatbot built using Hugging Face models, FAISS, and Streamlit.  
 It lets users upload `.txt`, `.pdf`, or `.docx` documents and ask questions — generating context-grounded answers locally using a small transformer model.
 
+🌐 **Live Demo**: [Click Here to Use the Chatbot](https://rag-mini-chatbot-app-trkxvc84t4exbwshvmx6qf.streamlit.app/)
+
+
 ---
 
 ## 🚀 Features

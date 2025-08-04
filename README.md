@@ -22,9 +22,13 @@ It lets users upload `.txt`, `.pdf`, or `.docx` documents and ask questions — 
 
 rag-chatbot-streamlit/
 ├── app.py # Main Streamlit app (UI)
+
 ├── backend.py # Backend logic (RAG: retrieval + generation)
+
 ├── requirements.txt # All Python dependencies
+
 ├── .gitignore # Ignore virtualenv, cache, etc.
+
 └── README.md # You're here!
 
 

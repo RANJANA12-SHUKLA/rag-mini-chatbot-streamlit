@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+.env
+# Streamlit secrets (if used)
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs or temp files
+*.log
+*.tmp
